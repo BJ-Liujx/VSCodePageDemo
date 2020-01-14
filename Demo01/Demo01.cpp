@@ -3,7 +3,7 @@
 int main()//函数头文件
 {
     using namespace std;//编译指令
-    cout << "Hello World!";
+    cout << "Hello World!";//Hello
     cout << endl;
     cout << "Hello World2" << endl;
     return 0;//main函数的返回值
